@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [dtb-218-AW1.PrjPcb]
+   Generated File[Pick Place for dtb-218-AW1.txt]
+   Generated File[Pick Place for dtb-218-AW1.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 2:50:57 PM On 10/31/2022

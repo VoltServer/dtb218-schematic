@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Intern\Documents\GitHub\dtb-218\dtb-218-AW1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance Exceptions|Scope=Board|Minimum=2.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

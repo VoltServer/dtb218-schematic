@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=TX DSP A Member=R1
+Removed Member From Class: ClassName=TX DSP A Member=R3
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-14
+Added Member To Class: ClassName=dtb-218-AW1 Member=Component R4 RC1608J271CS
+Added Member To Class: ClassName=TX DSP A Member=Component R4 RC1608J271CS
+Added Member To Class: ClassName=dtb-218-AW1 Member=Component R6 RC1608J271CS
+Added Member To Class: ClassName=TX DSP A Member=Component R6 RC1608J271CS
